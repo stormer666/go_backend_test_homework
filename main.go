@@ -1,3 +1,4 @@
+//ого
 package main
 
 import (
